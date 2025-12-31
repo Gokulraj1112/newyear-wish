@@ -13,12 +13,7 @@ import { CountdownService } from '../services/countdown.service';
       @if (!countdownService.isUnlocked()) {
         <div class="countdown-display">
           <div class="row justify-content-center">
-            <div class="col-6 col-md-3 mb-3">
-              <div class="time-box">
-                <div class="time-number">{{ countdownService.timeLeft().days }}</div>
-                <div class="time-label">Days</div>
-              </div>
-            </div>
+           
             <div class="col-6 col-md-3 mb-3">
               <div class="time-box">
                 <div class="time-number">{{ countdownService.timeLeft().hours }}</div>

@@ -1,0 +1,27 @@
+{
+  "special": {
+    "gokul": {
+      "message": "Dear Gokul, May this New Year bring you endless opportunities, success in all your endeavors, and moments of pure joy! Your dedication and hard work inspire everyone around you. Here's to achieving all your dreams in 2026! 🌟",
+      "image": "gokul.jpg"
+    },
+    "naveen": {
+      "message": "Dear Naveen, Wishing you a spectacular New Year filled with adventure, laughter, and incredible achievements! May every day bring you closer to your goals and fill your life with happiness and prosperity. Cheers to an amazing 2026! 🚀",
+      "image": "naveen.jpg"
+    }
+   
+  },
+  "random": [
+    "May this New Year bring you happiness, peace, and prosperity! Wishing you a wonderful 2026 filled with amazing moments! 🎆",
+    "Here's to new beginnings, fresh starts, and endless possibilities! May 2026 be your best year yet! 🌟",
+    "Wishing you a year full of blessings, joy, and success! May all your dreams come true in 2026! ✨",
+    "May the New Year bring you courage to break your bad habits and follow your dreams! Happy 2026! 🎊",
+    "Sending you warm wishes for a bright and prosperous New Year! May 2026 be filled with love and laughter! 💫"
+  ],
+  "gifts": [
+    "A year full of success and happiness! 🎁",
+    "Endless opportunities and adventures! 🌈",
+    "Love, laughter, and cherished moments! 💝",
+    "Health, wealth, and wisdom! 🎀",
+    "Dreams fulfilled and new goals achieved! ⭐"
+  ]
+}

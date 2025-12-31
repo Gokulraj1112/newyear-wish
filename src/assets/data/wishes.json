@@ -1,27 +1,134 @@
 {
   "special": {
     "gokul": {
-      "message": "Dear Gokul, May this New Year bring you endless opportunities, success in all your endeavors, and moments of pure joy! Your dedication and hard work inspire everyone around you. Here's to achieving all your dreams in 2026! 🌟",
+      "message": "Dear Gokul, May 2026 turn your hard work into massive success. May every line of code you write build a brighter future for you. Keep dreaming big and achieving bigger. Happy New Year! 🌟",
       "image": "gokul.jpg"
     },
     "naveen": {
-      "message": "Dear Naveen, Wishing you a spectacular New Year filled with adventure, laughter, and incredible achievements! May every day bring you closer to your goals and fill your life with happiness and prosperity. Cheers to an amazing 2026! 🚀",
+      "message": "Dear Naveen, May this New Year unlock new opportunities and bring victories in every step you take. May your confidence and talent lead you to great success in 2026. 🚀",
       "image": "naveen.jpg"
+    },
+    "meena": {
+      "message": "Dear Meena, May this year bring you peace, happiness, and everything your heart desires. May 2026 be filled with beautiful surprises and joyful moments. 🌷",
+      "image": "meena.jpg"
+    },
+    "varsha": {
+      "message": "Dear Varsha, May 2026 be the year where all your dreams begin to come true. Wishing you endless happiness, success, and positivity in this New Year. ✨",
+      "image": "varsha.jpg"
     }
-   
   },
+
   "random": [
-    "May this New Year bring you happiness, peace, and prosperity! Wishing you a wonderful 2026 filled with amazing moments! 🎆",
-    "Here's to new beginnings, fresh starts, and endless possibilities! May 2026 be your best year yet! 🌟",
-    "Wishing you a year full of blessings, joy, and success! May all your dreams come true in 2026! ✨",
-    "May the New Year bring you courage to break your bad habits and follow your dreams! Happy 2026! 🎊",
-    "Sending you warm wishes for a bright and prosperous New Year! May 2026 be filled with love and laughter! 💫"
+    "May 2026 surprise you with happiness, success, and beautiful moments!",
+    "Wishing you a year filled with growth, peace, and exciting opportunities.",
+    "Let this New Year be the start of something truly amazing in your life.",
+    "May every day of 2026 bring you a reason to smile.",
+    "New dreams, new goals, and new victories await you this year!",
+    "Wishing you health, wealth, and endless happiness in 2026.",
+    "May all your hard work finally turn into success this year.",
+    "Here’s to fresh beginnings and endless possibilities!",
+    "May your heart be light and your future be bright in 2026.",
+    "Wishing you beautiful memories and great achievements.",
+    "Let this New Year open doors you never imagined.",
+    "May joy and peace follow you wherever you go in 2026.",
+    "Wishing you a year filled with positivity and purpose.",
+    "May success knock on your door again and again!",
+    "Here’s to happiness, love, and good fortune.",
+    "May 2026 be kinder, brighter, and better for you.",
+    "Wishing you strength to overcome every challenge.",
+    "May your dreams find their way to reality this year.",
+    "A fresh year, a fresh start, and endless hope!",
+    "Wishing you endless smiles in 2026.",
+    "May good luck be your best friend this year.",
+    "Let happiness be your daily companion.",
+    "Wishing you peace of mind and success in everything you do.",
+    "May this New Year bring you everything you deserve.",
+    "Here’s to a year full of love and laughter.",
+    "May all your plans work perfectly in 2026.",
+    "Wishing you motivation, success, and joy.",
+    "Let this year be your best chapter yet.",
+    "May every day feel like a celebration!",
+    "Wishing you a wonderful and fulfilling New Year.",
+    "May you shine brighter than ever this year.",
+    "Here’s to new opportunities and big achievements.",
+    "Wishing you endless energy and happiness.",
+    "May 2026 be your lucky year.",
+    "Let peace and prosperity follow you.",
+    "Wishing you dreams that come true.",
+    "May love and joy fill your life.",
+    "Here’s to beautiful beginnings.",
+    "Wishing you success beyond expectations.",
+    "May your future be golden.",
+    "Wishing you happiness that lasts all year.",
+    "May good things keep coming your way.",
+    "Here’s to a powerful New Year.",
+    "Wishing you a smooth and successful 2026.",
+    "May your efforts bring great rewards.",
+    "Wishing you wonderful surprises.",
+    "Let this year bring peace and positivity.",
+    "May you achieve everything you desire.",
+    "Wishing you a truly amazing year ahead."
   ],
+
+  "festival": [
+    "May this New Year shine bright like Diwali lights and fill your life with joy and prosperity.",
+    "Let 2026 bring you happiness just like a festival brings smiles to every home.",
+    "May your year be colorful, joyful, and full of celebrations!",
+    "Wishing you a New Year as beautiful as fireworks in the sky.",
+    "May this New Year bless you like a festival blessing a family.",
+    "Let happiness enter your life like festive lights into darkness.",
+    "Wishing you a New Year filled with traditions, love, and joy.",
+    "May your life be filled with celebration and success in 2026.",
+    "Let every day of this year feel like a festival.",
+    "Wishing you prosperity and peace like a festive blessing."
+  ],
+
+  "funny": [
+    "May your Wi-Fi be strong and your stress be weak in 2026!",
+    "Wishing you a year with fewer problems and more pizza!",
+    "May your boss be kinder and your salary be higher this year!",
+    "Let your New Year resolution survive at least one week 😄",
+    "May your bank balance grow faster than your weight!",
+    "Wishing you more holidays and fewer Mondays!",
+    "May your selfies get more likes in 2026!",
+    "Here’s to eating more and worrying less!",
+    "May your alarm clock fail and your dreams succeed!",
+    "Wishing you happiness, health, and a little bit of laziness!"
+  ],
+
+  "emotional": [
+    "May 2026 heal your heart and bring peace to your soul.",
+    "Wishing you a year filled with love, warmth, and beautiful moments.",
+    "May every tear turn into a smile this New Year.",
+    "Let this year bring you comfort, hope, and happiness.",
+    "May your heart find the happiness it deserves.",
+    "Wishing you strength, love, and calm days ahead.",
+    "May your life be filled with gentle and beautiful moments.",
+    "Let this year bring peace to everything you carry inside.",
+    "Wishing you love that never fades.",
+    "May happiness slowly fill every corner of your life."
+  ],
+
+  "professional": [
+    "Wishing you great success and new achievements in 2026.",
+    "May this year bring promotions, recognition, and growth.",
+    "Let your hard work turn into big opportunities.",
+    "Wishing you a productive and successful New Year.",
+    "May your career reach new heights in 2026.",
+    "Let this year bring clarity, focus, and progress.",
+    "Wishing you smart decisions and great results.",
+    "May success follow you in every step you take.",
+    "Wishing you strong goals and even stronger results.",
+    "May this be the year of your biggest achievements."
+  ],
+
   "gifts": [
-    "A year full of success and happiness! 🎁",
-    "Endless opportunities and adventures! 🌈",
-    "Love, laughter, and cherished moments! 💝",
-    "Health, wealth, and wisdom! 🎀",
-    "Dreams fulfilled and new goals achieved! ⭐"
+    "A year full of confidence and success 🎁",
+    "New chances and beautiful surprises 🌟",
+    "Peace, positivity, and prosperity 💖",
+    "Dreams turning into achievements 🎀",
+    "Good health and great happiness 🌈",
+    "Endless smiles and joyful moments ✨",
+    "New beginnings and exciting journeys 🚀"
   ]
 }

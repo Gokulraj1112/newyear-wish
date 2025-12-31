@@ -1,0 +1,193 @@
+@import url('https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  overflow-x: hidden;
+  background: #1a1a2e;
+  color: white;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(45deg, #FFD700, #FFA500);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(45deg, #FFA500, #FFD700);
+}
+
+/* Disable text selection for better UX */
+.scratch-canvas {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Responsive images */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Focus styles */
+button:focus,
+input:focus {
+  outline: 2px solid #FFD700;
+  outline-offset: 2px;
+}
+
+/* Smooth transitions */
+* {
+  transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+}
+
+/* Custom Bootstrap overrides */
+.btn {
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.btn:focus {
+  box-shadow: 0 0 0 0.2rem rgba(255, 215, 0, 0.25);
+}
+
+.form-control:focus {
+  border-color: #FFD700;
+  box-shadow: 0 0 0 0.2rem rgba(255, 215, 0, 0.25);
+}
+
+/* Loading animation */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.wish-card {
+  animation: fadeIn 0.6s ease-out;
+}
+
+/* Mobile optimizations */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+  
+  .container {
+    padding: 0 10px;
+  }
+  
+  .card {
+    margin: 5px;
+    border-radius: 15px;
+  }
+  
+  .btn {
+    min-height: 44px; /* Touch target size */
+    border-radius: 8px;
+  }
+  
+  .form-control {
+    min-height: 44px; /* Touch target size */
+    border-radius: 8px;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 13px;
+  }
+  
+  .container {
+    padding: 0 5px;
+  }
+  
+  .card {
+    margin: 2px;
+    border-radius: 12px;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1.3;
+  }
+  
+  .btn {
+    font-size: 0.9rem;
+    padding: 8px 16px;
+  }
+  
+  .form-control {
+    font-size: 0.9rem;
+    padding: 8px 12px;
+  }
+}
+
+/* Touch device optimizations */
+@media (hover: none) and (pointer: coarse) {
+  .scratch-canvas {
+    touch-action: none;
+  }
+  
+  .btn:hover {
+    transform: none; /* Disable hover transforms on touch devices */
+  }
+  
+  .time-box:hover {
+    transform: none; /* Disable hover transforms on touch devices */
+  }
+  
+  .gift-box:hover {
+    transform: none; /* Disable hover transforms on touch devices */
+  }
+}
+
+/* Improve touch interactions */
+@media (max-width: 768px) {
+  .scratch-canvas {
+    cursor: pointer;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
+  /* Larger touch targets */
+  .gift-box {
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  /* Better spacing for mobile */
+  .action-buttons .btn {
+    margin: 0.25rem 0;
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  /* Prevent zoom on input focus */
+  input[type="text"] {
+    font-size: 16px;
+  }
+}

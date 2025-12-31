@@ -8,10 +8,10 @@ export class EffectsService {
   private backgroundMusic?: HTMLAudioElement;
 
   private specialMusicMap: { [key: string]: string } = {
-    
+    naveen:'assets/thambi.mp3',
     meena: 'assets/angel.mp3',
      varsha: 'assets/angel.mp3',
-     priya:'assets/music.mp3'
+     angel:'assets/music.mp3'
   };
 
   enableAudioByUserGesture(userName?: string) {

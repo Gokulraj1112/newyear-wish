@@ -20,7 +20,7 @@ import { CountdownService } from './services/countdown.service';
       
       <!-- Header -->
       <header class="app-header text-center py-4">
-        <h1 class="app-title">🌟 New Year Festival 2026 🌟</h1>
+        <h1 class="app-title">🌟  Happy New Year 2026 🌟</h1>
         <p class="app-subtitle">A magical celebration awaits you!</p>
       </header>
 

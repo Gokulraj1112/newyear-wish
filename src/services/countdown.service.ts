@@ -11,7 +11,7 @@ export interface TimeLeft {
   providedIn: 'root'
 })
 export class CountdownService {
-  private targetDate = new Date('2025-12-31T00:00:00').getTime();
+  private targetDate = new Date('2026-01-01T00:00:00').getTime();
   private currentTime = signal(Date.now());
   private intervalId?: number;
 

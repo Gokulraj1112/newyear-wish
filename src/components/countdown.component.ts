@@ -39,7 +39,7 @@ import { CountdownService } from '../services/countdown.service';
             </div>
           </div>
         </div>
-        <p class="countdown-message mt-4">Get ready for an amazing New Year celebration!</p>
+        <p class="countdown-message mt-4">Get ready for an amazing New Year ...!</p>
       } @else {
         <div class="unlocked-message">
           <h2 class="mb-3">🎊 Happy New Year 2026! 🎊</h2>

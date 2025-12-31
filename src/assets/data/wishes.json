@@ -1,20 +1,24 @@
 {
   "special": {
     "gokul": {
-      "message": "Dear Gokul, May 2026 turn your hard work into massive success. May every line of code you write build a brighter future for you. Keep dreaming big and achieving bigger. Happy New Year! 🌟",
+      "message": "Hi.. Gokul, May 2026 turn your hard work into massive success. May every line of code you write build a brighter future for you. Keep dreaming big and achieving bigger. Happy New Year! 🌟",
       "image": "gokul.jpg"
     },
     "naveen": {
-      "message": "Dear Naveen, May this New Year unlock new opportunities and bring victories in every step you take. May your confidence and talent lead you to great success in 2026. 🚀",
+      "message": "Hi.. Naveen, May this New Year unlock new opportunities and bring victories in every step you take. May your confidence and talent lead you to great success in 2026. 🚀",
       "image": "naveen.jpg"
     },
     "meena": {
-      "message": "Dear Meena, May this year bring you peace, happiness, and everything your heart desires. May 2026 be filled with beautiful surprises and joyful moments. 🌷",
-      "image": "meena.jpg"
+      "message": "Hi.. Meena, May this year bring you peace, happiness, and everything your heart desires. May 2026 be filled with beautiful surprises and joyful moments. 🌷",
+      "image": "meena.png"
     },
     "varsha": {
-      "message": "Dear Varsha, May 2026 be the year where all your dreams begin to come true. Wishing you endless happiness, success, and positivity in this New Year. ✨",
-      "image": "varsha.jpg"
+      "message": "Hi.. Varsha, May 2026 be the year where all your dreams begin to come true. Wishing you endless happiness, success, and positivity in this New Year. ✨",
+      "image": "varsha.png"
+    },
+    "meenakshi": {
+      "message": "Hi.. Meenakshi, May this year bring you peace, happiness, and everything your heart desires. May 2026 be filled with beautiful surprises and joyful moments. 🌷",
+      "image": "meena.png"
     }
   },
 

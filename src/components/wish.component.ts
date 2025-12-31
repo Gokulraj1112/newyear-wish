@@ -424,18 +424,18 @@ export class WishComponent implements OnInit {
   }
 
   enterName(): void {
-    if (!this.userName.trim() || !this.wishData()) return;
-    
-    this.nameEntered.set(true);
-    this.setCurrentWish();
-    this.setCurrentGift();
-    
-    // Start music
-    this.effectsService.playBackgroundMusic();
-    
-    // Initialize scratch canvas
-    setTimeout(() => this.initializeScratchCanvas(), 100);
-  }
+  if (!this.userName.trim() || !this.wishData()) return;
+
+  this.nameEntered.set(true);
+  this.setCurrentWish();
+  this.setCurrentGift();
+
+  // 🎵 Enable special music after button click
+  this.effectsService.enableAudioByUserGesture(this.userName);
+
+  setTimeout(() => this.initializeScratchCanvas(), 100);
+}
+
 
   private setCurrentWish(): void {
     const data = this.wishData()!;
